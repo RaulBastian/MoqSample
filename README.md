@@ -1,5 +1,4 @@
-# MoqSample
-Moq sample
+# Moq sample
 
 Sample console application applying topics learnt from Jason Robert's Pluralsight course:
 
