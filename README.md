@@ -12,4 +12,5 @@ It applies logic and creates entities in a backed in memory dummy db context.
 The controller has an external dependency on a service which is used to mock from the unit tests
 
 
-
+## Automapper
+Used for conversions between request/response DTOs and entity types
